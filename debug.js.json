@@ -1,0 +1,35 @@
+{
+  "pid": 10180,
+  "stats": [
+    {
+      "id": null,
+      "version": {
+        "node": "v14.15.4",
+        "total": "3.4.8",
+        "app": "11.0.0"
+      },
+      "pid": 10180,
+      "thread": "",
+      "mode": "debug",
+      "overload": 0,
+      "date": "2021-03-09T13:53:06.726Z",
+      "memory": 12.04,
+      "rm": 0,
+      "fm": 0,
+      "wm": 0,
+      "mm": 0,
+      "om": 0,
+      "em": 0,
+      "dbrm": 0,
+      "dbwm": 0,
+      "usage": 0,
+      "requests": 1185,
+      "pending": 0,
+      "errors": 17,
+      "timeouts": 0,
+      "uptime": 345,
+      "online": 0,
+      "lasterror": "2021-03-09T08:21:28.865Z Error: Command failed: gm convert \"C:\\Users\\Abdul\\Desktop\\Web.Coding\\eshop\\tmp\\images_small_1611262242T1d7q6.jpg\" +profile \"*\" -thumbnail \"200x150\" -filter \"Hamming\" -extent 0x0 -background \"white\" -gravity \"Center\" -extent \"200x150\" -quality 90 \"C:\\Users\\Abdul\\Desktop\\Web.Coding\\eshop\\tmp\\images_small_1611262242T1d7q6.jpg\"\n'gm' is not recognized as an internal or external command,\r\noperable program or batch file.\r\n\n    at ChildProcess.exithandler (child_process.js:308:12)\n    at ChildProcess.emit (events.js:315:20)\n    at maybeClose (internal/child_process.js:1048:16)\n    at Process.ChildProcess._handle.onexit (internal/child_process.js:288:5)"
+    }
+  ]
+}
